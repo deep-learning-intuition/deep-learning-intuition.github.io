@@ -1,0 +1,19 @@
+# Site settings
+title: Deep Learning Intuition
+email: deep.learning.intuition@gmail.com
+description: "Blog posts to make you a strong deep learning practitioner"
+baseurl: ""
+url: "https://deep-learning-intuition.github.io/"
+twitter_username: mlbasicsgithub
+github_username:  deep-learning-intuition
+
+# Build settings
+markdown: kramdown
+permalink: pretty
+
+highlighter: rouge
+kramdown:
+  input: GFM
+  auto_ids: true
+  syntax_highlighter: rouge
+
